@@ -1,0 +1,1 @@
+# Avito-QA-trainee-assignment-spring-2026
